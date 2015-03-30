@@ -4,7 +4,7 @@ This repository contains the submitted code, test and output files for Software 
 
 The report has been submitted separately through Turnitin, together with the zipped code files.
 
-The program is a Python-based command line implementation of the Ant Colonization method to solve small instances of the Travelling Salesman Problem.
+The program is a Python-based implementation of the Ant Colonization method to solve small instances of the Travelling Salesman Problem.
 
 The program is run through the command line using the following command:
 python tspmain.py <number of cities to visit> <number of ants> <number of iterations> <number of repetitions> < alpha factor > <beta factor> <state transition probability> < pheromone evaporation coefficient > <city data file> <output file>
